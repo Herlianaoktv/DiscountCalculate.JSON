@@ -1,0 +1,6 @@
+[
+
+{"harga" : "100000 , "diskon": "10%", "jumlahDiskon": "10000", "totalPembayaran": "90000"},
+{"harga" : "200000 , "diskon": "50%", "jumlahDiskon": "100000", "totalPembayaran": "100000"}
+
+]
